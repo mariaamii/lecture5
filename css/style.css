@@ -1,0 +1,273 @@
+/*.container{
+	width: 1291px;
+	margin: 0 auto;
+}*/
+body {
+	padding: 54px 52px;
+}
+header {
+	margin-bottom: 50px;
+}
+
+.logo{
+	vertical-align: top;
+	display: inline-block;
+	margin-right: 60px;
+	margin-bottom: 30px;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-right: 80px;
+	/*margin-left: -15px;*/
+	vertical-align: middle;
+};
+
+ul{
+	vertical-align: middle;
+}
+.header-style{
+	color: #4E6FAE;
+	vertical-align:top
+}
+
+a {
+	font-size: 26px;
+    color: #8D81FF;
+    margin-right: 87px;
+}
+.bluebox{
+	width:50px;
+	height:50px;
+	background-color:  #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	padding: 12px;
+	margin-bottom: 18px;
+}
+ h1{
+ 	width: 100px;
+    height: 34px;
+	font-weight: 200px;
+	font-size: 32px;
+: ;	line-height: 20px;
+	color: #8D81FF;
+	margin-bottom: 8px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+ }
+ 
+ h2{
+ 	/*font-weight: 700;
+	font-size: 20px;
+	color: #4E6FAE;
+	margin-bottom: 13px;*/
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin-bottom: 12px;
+ }
+ .article-image{
+ 	margin-right: 66px;
+
+ 	/*margin-bottom: 155px;*/
+ }
+ 
+ .pbox{
+ 	/*width: 778px;
+ 	height: 281px:;
+ 	display: inline-block;
+ 	vertical-align: top;*/
+ 	width: 778px;
+	height: 353px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align:top;
+ }
+ p{
+
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 19px;
+}
+
+h3 {
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 12px;
+	font-family: "BPG Square", sans-serif;
+	
+}
+
+.pbox1{
+	width: 778px;
+	height: 353px;
+	font-family: "BPG Square", sans-serif;
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align:top;
+ }
+
+ h4{
+ 	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 12px;
+	font-family:"BPG Nostalgia", sans-serif;
+ }
+
+.pbox2{
+	width: 778px;
+	height: 353px;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align:top;
+}
+
+}
+.myfb{
+	margin right: 41px;
+}
+.myline{
+	margin right: 41px;
+}
+
+.container{
+	width: 1052px;
+	margin: 0 auto;
+}
+.s-1{
+	margin-bottom: 120px;
+}
+.infodiv{
+	margin-bottom: 26px;
+}
+
+h5{
+	display: inline-block;
+	vertical-align: middle;
+	width: 150px;
+	height: 34px;
+
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+
+	color: #4E6FAE;
+
+}
+
+.newsline{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+	margin-left: 18px;
+}
+
+h6{
+	display: inline-block;
+	vertical-align: middle;
+	width: 484px;
+	height: 34px;
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+
+
+}
+
+.card1{
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	margin-right: 44px;
+	padding: 20px;
+	vertical-align: top;
+	margin-bottom: 92px;
+}
+
+
+.card-h1{
+position: absolute;
+width: 307px;
+height: 23px;
+
+font-family: 'Roboto'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #3F4145;
+
+
+}
+
+
+
+.lupa-img{
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 37px;
+	vertical-align: bottom;
+}
+
+.card-p{
+	display: inline-block;
+	position: absolute;
+	width: 335px;
+	height: 95px;
+
+	font-family: 'Roboto'sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	margin-top: 42px;
+
+color: #7E8898;
+
+
+}
+
+.card2{
+
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+}
